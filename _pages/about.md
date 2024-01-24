@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-<img src="https://congliu0514.github.io/assets/images/cl_600_600.png" width="250">{: .align-center}
+<img src="https://congliu0514.github.io/assets/images/cong_profile" width="1028" height="665">
 
 [Resume](http://congliu0514.github.io/cv/){: .btn .btn--info} [Portfolio](http://congliu0514.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/cong-liu-22b09892/){: .btn .btn--info}
 {: .text-center}
