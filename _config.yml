@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Cong Liu"
   avatar : "/assets/images/cl_600_600.png"
-  bio    : "Try something new"
+  bio    : "Trying something new"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
